@@ -1,0 +1,13 @@
+This page is not Available
+Available options are:
+    - /hello | Return a Hello World
+    - /covid_data/country | Return the most recent cases of Covid-19 in a country
+        - country: Put the two intials of the country to consult
+                     Ex: MX | /covid_data/MX 
+                     The function is not case sensitive 
+
+                     Put all to have the results of all the countries the API have information
+                     Ex: /covid_data/all
+                     The function is not case sensitive
+
+        Thanks to https://covid19api.com/ for the information on Covid-19
