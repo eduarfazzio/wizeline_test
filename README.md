@@ -5,6 +5,7 @@ This Project was made to complete the requirements to enter the Golang Bootcamp 
 ## Requirements:
 - Python 3.8.2
 - Flask 1.1.2
+
 To check the API response I recommend to use Postman https://www.postman.com/downloads/
 
 ## Installation:
